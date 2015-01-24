@@ -1,4 +1,4 @@
-NAME = tatma82
+NAME = tat
 
 #----------------------------
 include ../../Makefile.common
